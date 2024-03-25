@@ -17,6 +17,10 @@
 
 The E-Commerce Sales Analysis Dashboard project aims to provide valuable insights into sales data based on various product categories. Leveraging Microsoft Excel and the Data Analysis Add-in, this project analyzes a comprehensive dataset containing sales information such as order ID, order date, product category, sales amount, profit, and more. The goal is to design an interactive dashboard that allows users to explore sales trends, profitability, and customer behavior effortlessly.
 
+
+![image](https://github.com/Kamunded/Advanced-Excel-ecommerce-sales-analysis/assets/164509894/d1c3ba3d-998b-4b1b-b9de-d26514777e3c)
+
+
 ### Source of Data
 
 Sales Data: The primary dataset used for this analysis is "Sales_data.xlsx" file, containing detailed information about each product category.
