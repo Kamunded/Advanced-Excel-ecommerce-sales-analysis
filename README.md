@@ -43,9 +43,9 @@ The following tasks were performed during the initial data cleaning
 
 EDA involved seeking answers to some of the sales questions, such as;
 1. How do sales and profit vary over time?
-2. which product category contribute the most to the sales and profit?
+2. Which product category contribute the most to the sales and profit?
 3. How does the sales and profit vary accross different states, cities and regions?
-4. which product category contributes the highest profits?
+4. Which product category contributes the highest profits?
 
 
 ### Data Analysis
